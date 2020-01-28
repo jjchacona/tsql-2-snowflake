@@ -1,4 +1,4 @@
-
+# How much of your script is TSQL specific? 
 import re
 import sys
 
